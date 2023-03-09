@@ -1,0 +1,16 @@
+{
+	"name": "test",
+	"version": "1.0.0",
+	"description": "기본 ERC20 Token에 대한 지갑 Transfer를 제한 할 수 있는 간단한 Lockup Contract 입니다.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@truffle/hdwallet-provider": "^2.1.6",
+		"dotenv": "^16.0.3"
+	}
+}
